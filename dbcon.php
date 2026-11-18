@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "Pass4!";
 $dbname = "bookflight";
 $port = 3306;
 
